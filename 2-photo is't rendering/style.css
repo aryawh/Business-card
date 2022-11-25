@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image-1 {
+    /* height: 100px; */
+    width: 150px;
+}
+
+.card {
+    margin: 0 auto;
+    padding: 20px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+    color: #2b2839;
+}
+
+.circle {
+    margin: 100px auto;
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
